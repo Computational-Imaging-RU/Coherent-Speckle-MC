@@ -11,8 +11,6 @@ from torch.utils.data import Dataset
 import scipy.io.wavfile as wavfile
 
 
-
-
 def gen_latent_code(num_frame, num_channels, patch_size, out_ch):
     # img_meas, A_sensing are all tensor
     totalupsample = 2 ** (len(num_channels) - 1)
