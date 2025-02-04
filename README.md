@@ -1,4 +1,4 @@
-# Monte-Carlo based efficient Image reconstruction in coherent imaging with speckle noise
+# Monte-Carlo based efficient image reconstruction in coherent imaging with speckle noise
 
 ## Preview
 #### There are 4 python files in this repo. The test data is under the /data/ folder.
